@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- debug config -->
+<launch>
+    <copy file="grid_fast.net.xml" />
+    <copy file="grid_fast_jtrouter.rou.xml" />
+    <!--<copy file="grid.edg.xml" /> -->
+    <!--<copy file="grid.nod.xml" /> -->
+    <copy file="grid_fast.sumo.cfg" type="config" />
+</launch>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Tue 03 Dec 2019 10:36:27 GMT by Eclipse SUMO netedit Version 1.2.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="01vpm.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="01vpm.net.xml"/>
+    </output>
+
+    <processing>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="false"/>
+    </processing>
+
+    <junctions>
+        <no-internal-links value="true"/>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.5"/>
+        <rectangular-lane-cut value="false"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="false"/>
+    </pedestrian>
+
+</configuration>
+-->
+
+<net version="1.1" junctionCornerDetail="5" limitTurnSpeed="5.50" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/net_file.xsd">
+
+    <location netOffset="0.00,0.00" convBoundary="-61.58,-526.33,5047.46,-477.85" origBoundary="-10000000000.000000,-10000000000.000000,10000000000.000000,10000000000.000000" projParameter="+proj=tmerc +lat_0=48.78407 +lon_0=11.47258 +ellps=WGS84 +datum=WGS84 +units=m +no_defs"/>
+
+    <edge id="LS1LS2" from="LS1" to="LS2" priority="-1" length="0.10">
+        <lane id="LS1LS2_0" index="0" speed="19.44" length="0.10" width="4.00" shape="-35.50,-472.93 -65.01,-493.53"/>
+        <lane id="LS1LS2_1" index="1" speed="19.44" length="0.10" width="4.00" shape="-33.21,-476.21 -62.72,-496.81"/>
+    </edge>
+    <edge id="LS2LS3" from="LS2" to="LS3" priority="-1" length="0.10">
+        <lane id="LS2LS3_0" index="0" speed="19.44" length="0.10" width="4.00" shape="-65.83,-502.68 -38.07,-530.56"/>
+        <lane id="LS2LS3_1" index="1" speed="19.44" length="0.10" width="4.00" shape="-62.99,-499.86 -35.24,-527.74"/>
+    </edge>
+    <edge id="LS3LS" from="LS3" to="LS" priority="-1" length="0.10">
+        <lane id="LS3LS_0" index="0" speed="19.44" length="0.10" width="4.00" shape="-30.14,-531.06 0.33,-507.34"/>
+        <lane id="LS3LS_1" index="1" speed="19.44" length="0.10" width="4.00" shape="-32.59,-527.91 -2.12,-504.19"/>
+    </edge>
+    <edge id="LSLS1" from="LS" to="LS1" priority="-1" length="0.10">
+        <lane id="LSLS1_0" index="0" speed="19.44" length="0.10" width="4.00" shape="0.12,-492.79 -28.65,-472.91"/>
+        <lane id="LSLS1_1" index="1" speed="19.44" length="0.10" width="4.00" shape="-2.15,-496.08 -30.93,-476.21"/>
+    </edge>
+    <edge id="LSRE" from="LS" to="RE" priority="-1">
+        <lane id="LSRE_0" index="0" speed="19.44" length="5000.00" width="4.00" shape="4.25,-506.00 4995.60,-506.00"/>
+        <lane id="LSRE_1" index="1" speed="19.44" length="5000.00" width="4.00" shape="4.25,-502.00 4995.60,-502.00"/>
+    </edge>
+    <edge id="RE1RE2" from="RE1" to="RE2" priority="-1" length="0.10">
+        <lane id="RE1RE2_0" index="0" speed="19.44" length="0.10" width="4.00" shape="5022.22,-522.16 5049.75,-510.75"/>
+        <lane id="RE1RE2_1" index="1" speed="19.44" length="0.10" width="4.00" shape="5020.69,-518.46 5048.22,-507.05"/>
+    </edge>
+    <edge id="RE2RE3" from="RE2" to="RE3" priority="-1" length="0.10">
+        <lane id="RE2RE3_0" index="0" speed="19.44" length="0.10" width="4.00" shape="5050.90,-500.29 5027.57,-483.91"/>
+        <lane id="RE2RE3_1" index="1" speed="19.44" length="0.10" width="4.00" shape="5048.61,-503.57 5025.27,-487.18"/>
+    </edge>
+    <edge id="RE3RE" from="RE3" to="RE" priority="-1" length="0.10">
+        <lane id="RE3RE_0" index="0" speed="19.44" length="0.10" width="4.00" shape="5021.60,-483.38 5000.44,-493.18"/>
+        <lane id="RE3RE_1" index="1" speed="19.44" length="0.10" width="4.00" shape="5023.28,-487.01 5002.12,-496.81"/>
+    </edge>
+    <edge id="RELS" from="RE" to="LS" priority="-1">
+        <lane id="RELS_0" index="0" speed="19.44" length="5000.00" width="4.00" shape="4995.60,-494.00 4.25,-494.00"/>
+        <lane id="RELS_1" index="1" speed="19.44" length="5000.00" width="4.00" shape="4995.60,-498.00 4.25,-498.00"/>
+    </edge>
+    <edge id="RERE1" from="RE" to="RE1" priority="-1" length="0.10">
+        <lane id="RERE1_0" index="0" speed="19.44" length="0.10" width="4.00" shape="4999.53,-507.42 5016.08,-521.22"/>
+        <lane id="RERE1_1" index="1" speed="19.44" length="0.10" width="4.00" shape="5002.10,-504.35 5018.64,-518.15"/>
+    </edge>
+
+    <junction id="LS" type="priority" x="0.00" y="-500.00" incLanes="RELS_0 RELS_1 LS3LS_0 LS3LS_1" intLanes="" shape="4.25,-492.00 4.25,-508.00 3.17,-508.05 2.79,-508.13 2.44,-508.30 2.05,-508.55 1.56,-508.92 -3.35,-502.61 -1.85,-500.91 -1.66,-500.08 -1.83,-499.28 -2.38,-498.50 -3.29,-497.73 1.26,-491.15 2.26,-491.76 2.65,-491.90 3.07,-491.98 3.58,-492.00">
+        <request index="0" response="0000" foes="0000"/>
+        <request index="1" response="0000" foes="0000"/>
+        <request index="2" response="0000" foes="0000"/>
+        <request index="3" response="0000" foes="0000"/>
+    </junction>
+    <junction id="LS1" type="priority" x="-32.06" y="-477.85" incLanes="LSLS1_0 LSLS1_1" intLanes="" shape="-27.52,-471.27 -32.06,-477.85 -36.64,-471.29 -33.60,-469.87 -32.08,-469.70 -30.56,-469.87 -29.04,-470.39">
+        <request index="0" response="00" foes="00"/>
+        <request index="1" response="00" foes="00"/>
+    </junction>
+    <junction id="LS2" type="priority" x="-61.58" y="-498.45" incLanes="LS1LS2_0 LS1LS2_1" intLanes="" shape="-66.16,-491.89 -61.58,-498.45 -67.25,-504.09 -69.08,-501.88 -70.11,-499.73 -70.33,-497.66 -69.75,-495.67 -68.36,-493.74">
+        <request index="0" response="00" foes="00"/>
+        <request index="1" response="00" foes="00"/>
+    </junction>
+    <junction id="LS3" type="priority" x="-33.82" y="-526.33" incLanes="LS2LS3_0 LS2LS3_1" intLanes="" shape="-33.82,-526.33 -28.91,-532.64 -30.75,-533.83 -32.57,-534.50 -34.35,-534.65 -36.09,-534.28 -37.81,-533.39 -39.49,-531.97">
+        <request index="0" response="00" foes="00"/>
+        <request index="1" response="00" foes="00"/>
+    </junction>
+    <junction id="RE" type="priority" x="5000.00" y="-500.00" incLanes="RE3RE_0 RE3RE_1 LSRE_0 LSRE_1" intLanes="" shape="4999.60,-491.37 5002.96,-498.63 5001.69,-499.70 5001.58,-500.36 5001.83,-501.10 5002.43,-501.92 5003.38,-502.82 4998.25,-508.96 4997.40,-508.31 4997.05,-508.14 4996.68,-508.05 4996.21,-508.01 4995.60,-508.00 4995.60,-492.00 4997.13,-492.03 4997.67,-492.00 4998.20,-491.91 4998.80,-491.71">
+        <request index="0" response="0000" foes="0000"/>
+        <request index="1" response="0000" foes="0000"/>
+        <request index="2" response="0000" foes="0000"/>
+        <request index="3" response="0000" foes="0000"/>
+    </junction>
+    <junction id="RE1" type="priority" x="5019.92" y="-516.61" incLanes="RERE1_0 RERE1_1" intLanes="" shape="5019.92,-516.61 5022.98,-524.00 5020.09,-524.69 5018.70,-524.62 5017.36,-524.27 5016.06,-523.65 5014.80,-522.76">
+        <request index="0" response="00" foes="00"/>
+        <request index="1" response="00" foes="00"/>
+    </junction>
+    <junction id="RE2" type="priority" x="5047.46" y="-505.20" incLanes="RE1RE2_0 RE1RE2_1" intLanes="" shape="5050.52,-512.60 5047.46,-505.20 5052.05,-498.66 5055.32,-501.37 5057.18,-503.92 5057.63,-506.33 5056.67,-508.57 5054.30,-510.66">
+        <request index="0" response="00" foes="00"/>
+        <request index="1" response="00" foes="00"/>
+    </junction>
+    <junction id="RE3" type="priority" x="5024.12" y="-488.82" incLanes="RE2RE3_0 RE2RE3_1" intLanes="" shape="5028.72,-482.27 5024.12,-488.82 5020.76,-481.56 5023.50,-480.78 5024.84,-480.77 5026.16,-481.02 5027.45,-481.52">
+        <request index="0" response="00" foes="00"/>
+        <request index="1" response="00" foes="00"/>
+    </junction>
+
+    <connection from="LS1LS2" to="LS2LS3" fromLane="0" toLane="0" dir="l" state="M"/>
+    <connection from="LS1LS2" to="LS2LS3" fromLane="1" toLane="1" dir="l" state="M"/>
+    <connection from="LS2LS3" to="LS3LS" fromLane="0" toLane="0" dir="l" state="M"/>
+    <connection from="LS2LS3" to="LS3LS" fromLane="1" toLane="1" dir="l" state="M"/>
+    <connection from="LS3LS" to="LSRE" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="LS3LS" to="LSRE" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from="LSLS1" to="LS1LS2" fromLane="0" toLane="0" dir="l" state="M"/>
+    <connection from="LSLS1" to="LS1LS2" fromLane="1" toLane="1" dir="l" state="M"/>
+    <connection from="LSRE" to="RERE1" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="LSRE" to="RERE1" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from="RE1RE2" to="RE2RE3" fromLane="0" toLane="0" dir="l" state="M"/>
+    <connection from="RE1RE2" to="RE2RE3" fromLane="1" toLane="1" dir="l" state="M"/>
+    <connection from="RE2RE3" to="RE3RE" fromLane="0" toLane="0" dir="l" state="M"/>
+    <connection from="RE2RE3" to="RE3RE" fromLane="1" toLane="1" dir="l" state="M"/>
+    <connection from="RE3RE" to="RELS" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="RE3RE" to="RELS" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from="RELS" to="LSLS1" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="RELS" to="LSLS1" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from="RERE1" to="RE1RE2" fromLane="0" toLane="0" dir="l" state="M"/>
+    <connection from="RERE1" to="RE1RE2" fromLane="1" toLane="1" dir="l" state="M"/>
+
+</net>

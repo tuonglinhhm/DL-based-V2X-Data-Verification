@@ -1,0 +1,7 @@
+<launch>
+  <basedir path="/home/joseph/Projects/C-V2X/git-repositories/simulte-f2md/simulations/Mode4/highway/fast"/>
+  <copy file="fast.net.xml"/>
+  <copy file="fast.rou.xml"/>
+  <copy file="rerouters.add.xml"/>
+  <copy file="fast.sumo.cfg" type="config"/>
+</launch>

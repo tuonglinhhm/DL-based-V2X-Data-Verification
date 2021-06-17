@@ -1,0 +1,1155 @@
+<!-- generated with cutRoutes.py for lust.net.xml from ['buslines.rou.xml'] -->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle arrivalPos="-1.00" color="green" depart="14456.00" departLane="best" departPos="0.00" id="AVL---_14_1" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="14480.32" departLane="best" departPos="0.00" id="AVL---_24_0" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="14511.23" departLane="best" departPos="0.00" id="AVL---_24_1" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="14562.61" departLane="best" departPos="0.00" id="AVL---_4_0" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="14581.36" departLane="best" departPos="0.00" id="AVL---_2_0" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="14595.61" departLane="best" departPos="0.00" id="AVL---_21_0" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="14609.68" departLane="best" departPos="0.00" id="AVL---_18_0" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="14710.62" departLane="best" departPos="0.00" id="AVL---_2_1" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="14745.05" departLane="best" departPos="0.00" id="AVL---_4_1" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="14973.38" departLane="best" departPos="0.00" id="AVL---_21_1" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="15015.56" departLane="best" departPos="0.00" id="AVL---_18_1" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="15092.60" departLane="best" departPos="0.00" id="AVL---_14_0" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="16256.00" departLane="best" departPos="0.00" id="AVL---_14_3" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="16280.32" departLane="best" departPos="0.00" id="AVL---_24_2" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="16311.23" departLane="best" departPos="0.00" id="AVL---_24_3" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="16362.61" departLane="best" departPos="0.00" id="AVL---_4_2" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="16381.36" departLane="best" departPos="0.00" id="AVL---_2_2" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="16395.61" departLane="best" departPos="0.00" id="AVL---_21_2" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="16409.68" departLane="best" departPos="0.00" id="AVL---_18_2" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="16510.62" departLane="best" departPos="0.00" id="AVL---_2_3" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="16545.05" departLane="best" departPos="0.00" id="AVL---_4_3" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="16773.38" departLane="best" departPos="0.00" id="AVL---_21_3" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="16815.56" departLane="best" departPos="0.00" id="AVL---_18_3" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="16892.60" departLane="best" departPos="0.00" id="AVL---_14_2" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="18056.00" departLane="best" departPos="0.00" id="AVL---_14_5" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="18080.32" departLane="best" departPos="0.00" id="AVL---_24_4" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="18111.23" departLane="best" departPos="0.00" id="AVL---_24_5" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="18162.61" departLane="best" departPos="0.00" id="AVL---_4_4" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="18181.36" departLane="best" departPos="0.00" id="AVL---_2_4" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="18195.61" departLane="best" departPos="0.00" id="AVL---_21_4" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="18209.68" departLane="best" departPos="0.00" id="AVL---_18_4" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="18310.62" departLane="best" departPos="0.00" id="AVL---_2_5" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="18345.05" departLane="best" departPos="0.00" id="AVL---_4_5" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="18573.38" departLane="best" departPos="0.00" id="AVL---_21_5" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="18615.56" departLane="best" departPos="0.00" id="AVL---_18_5" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="18692.60" departLane="best" departPos="0.00" id="AVL---_14_4" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="19856.00" departLane="best" departPos="0.00" id="AVL---_14_7" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="19880.32" departLane="best" departPos="0.00" id="AVL---_24_6" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="19911.23" departLane="best" departPos="0.00" id="AVL---_24_7" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="19962.61" departLane="best" departPos="0.00" id="AVL---_4_6" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="19981.36" departLane="best" departPos="0.00" id="AVL---_2_6" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="19995.61" departLane="best" departPos="0.00" id="AVL---_21_6" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="20009.68" departLane="best" departPos="0.00" id="AVL---_18_6" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="20110.62" departLane="best" departPos="0.00" id="AVL---_2_7" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="20145.05" departLane="best" departPos="0.00" id="AVL---_4_7" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="20373.38" departLane="best" departPos="0.00" id="AVL---_21_7" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="20415.56" departLane="best" departPos="0.00" id="AVL---_18_7" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="20492.60" departLane="best" departPos="0.00" id="AVL---_14_6" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="21656.00" departLane="best" departPos="0.00" id="AVL---_14_9" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="21680.32" departLane="best" departPos="0.00" id="AVL---_24_8" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="21711.23" departLane="best" departPos="0.00" id="AVL---_24_9" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="21762.61" departLane="best" departPos="0.00" id="AVL---_4_8" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="21781.36" departLane="best" departPos="0.00" id="AVL---_2_8" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="21795.61" departLane="best" departPos="0.00" id="AVL---_21_8" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="21809.68" departLane="best" departPos="0.00" id="AVL---_18_8" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="21910.62" departLane="best" departPos="0.00" id="AVL---_2_9" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="21945.05" departLane="best" departPos="0.00" id="AVL---_4_9" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="22173.38" departLane="best" departPos="0.00" id="AVL---_21_9" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="22215.56" departLane="best" departPos="0.00" id="AVL---_18_9" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="22292.60" departLane="best" departPos="0.00" id="AVL---_14_8" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="23456.00" departLane="best" departPos="0.00" id="AVL---_14_11" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="23480.32" departLane="best" departPos="0.00" id="AVL---_24_10" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="23511.23" departLane="best" departPos="0.00" id="AVL---_24_11" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="23562.61" departLane="best" departPos="0.00" id="AVL---_4_10" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="23581.36" departLane="best" departPos="0.00" id="AVL---_2_10" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="23595.61" departLane="best" departPos="0.00" id="AVL---_21_10" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="23609.68" departLane="best" departPos="0.00" id="AVL---_18_10" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="23710.62" departLane="best" departPos="0.00" id="AVL---_2_11" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="23745.05" departLane="best" departPos="0.00" id="AVL---_4_11" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="23973.38" departLane="best" departPos="0.00" id="AVL---_21_11" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="24015.56" departLane="best" departPos="0.00" id="AVL---_18_11" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="24092.60" departLane="best" departPos="0.00" id="AVL---_14_10" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="25256.00" departLane="best" departPos="0.00" id="AVL---_14_13" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="25280.32" departLane="best" departPos="0.00" id="AVL---_24_12" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="25311.23" departLane="best" departPos="0.00" id="AVL---_24_13" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="25362.61" departLane="best" departPos="0.00" id="AVL---_4_12" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="25381.36" departLane="best" departPos="0.00" id="AVL---_2_12" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="25395.61" departLane="best" departPos="0.00" id="AVL---_21_12" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="25409.68" departLane="best" departPos="0.00" id="AVL---_18_12" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="25510.62" departLane="best" departPos="0.00" id="AVL---_2_13" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="25545.05" departLane="best" departPos="0.00" id="AVL---_4_13" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="25773.38" departLane="best" departPos="0.00" id="AVL---_21_13" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="25815.56" departLane="best" departPos="0.00" id="AVL---_18_13" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="25892.60" departLane="best" departPos="0.00" id="AVL---_14_12" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="27056.00" departLane="best" departPos="0.00" id="AVL---_14_15" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="27080.32" departLane="best" departPos="0.00" id="AVL---_24_14" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="27111.23" departLane="best" departPos="0.00" id="AVL---_24_15" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="27162.61" departLane="best" departPos="0.00" id="AVL---_4_14" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="27181.36" departLane="best" departPos="0.00" id="AVL---_2_14" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="27195.61" departLane="best" departPos="0.00" id="AVL---_21_14" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="27209.68" departLane="best" departPos="0.00" id="AVL---_18_14" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="27310.62" departLane="best" departPos="0.00" id="AVL---_2_15" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="27345.05" departLane="best" departPos="0.00" id="AVL---_4_15" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="27573.38" departLane="best" departPos="0.00" id="AVL---_21_15" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="27615.56" departLane="best" departPos="0.00" id="AVL---_18_15" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="27692.60" departLane="best" departPos="0.00" id="AVL---_14_14" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="28856.00" departLane="best" departPos="0.00" id="AVL---_14_17" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="28880.32" departLane="best" departPos="0.00" id="AVL---_24_16" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="28911.23" departLane="best" departPos="0.00" id="AVL---_24_17" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="28962.61" departLane="best" departPos="0.00" id="AVL---_4_16" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="28981.36" departLane="best" departPos="0.00" id="AVL---_2_16" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="28995.61" departLane="best" departPos="0.00" id="AVL---_21_16" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="29009.68" departLane="best" departPos="0.00" id="AVL---_18_16" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="29110.62" departLane="best" departPos="0.00" id="AVL---_2_17" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="29145.05" departLane="best" departPos="0.00" id="AVL---_4_17" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="29373.38" departLane="best" departPos="0.00" id="AVL---_21_17" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="29415.56" departLane="best" departPos="0.00" id="AVL---_18_17" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="29492.60" departLane="best" departPos="0.00" id="AVL---_14_16" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="30656.00" departLane="best" departPos="0.00" id="AVL---_14_19" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="30680.32" departLane="best" departPos="0.00" id="AVL---_24_18" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="30711.23" departLane="best" departPos="0.00" id="AVL---_24_19" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="30762.61" departLane="best" departPos="0.00" id="AVL---_4_18" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="30781.36" departLane="best" departPos="0.00" id="AVL---_2_18" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="30795.61" departLane="best" departPos="0.00" id="AVL---_21_18" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="30809.68" departLane="best" departPos="0.00" id="AVL---_18_18" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="30910.62" departLane="best" departPos="0.00" id="AVL---_2_19" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="30945.05" departLane="best" departPos="0.00" id="AVL---_4_19" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="31173.38" departLane="best" departPos="0.00" id="AVL---_21_19" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="31215.56" departLane="best" departPos="0.00" id="AVL---_18_19" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="31292.60" departLane="best" departPos="0.00" id="AVL---_14_18" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="32456.00" departLane="best" departPos="0.00" id="AVL---_14_21" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="32480.32" departLane="best" departPos="0.00" id="AVL---_24_20" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="32511.23" departLane="best" departPos="0.00" id="AVL---_24_21" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="32562.61" departLane="best" departPos="0.00" id="AVL---_4_20" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="32581.36" departLane="best" departPos="0.00" id="AVL---_2_20" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="32595.61" departLane="best" departPos="0.00" id="AVL---_21_20" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="32609.68" departLane="best" departPos="0.00" id="AVL---_18_20" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="32710.62" departLane="best" departPos="0.00" id="AVL---_2_21" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="32745.05" departLane="best" departPos="0.00" id="AVL---_4_21" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="32973.38" departLane="best" departPos="0.00" id="AVL---_21_21" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="33015.56" departLane="best" departPos="0.00" id="AVL---_18_21" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="33092.60" departLane="best" departPos="0.00" id="AVL---_14_20" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="34856.00" departLane="best" departPos="0.00" id="AVL---_14_23" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="34880.32" departLane="best" departPos="0.00" id="AVL---_24_22" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="34911.23" departLane="best" departPos="0.00" id="AVL---_24_23" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="34962.61" departLane="best" departPos="0.00" id="AVL---_4_22" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="34981.36" departLane="best" departPos="0.00" id="AVL---_2_22" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="34995.61" departLane="best" departPos="0.00" id="AVL---_21_22" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="35009.68" departLane="best" departPos="0.00" id="AVL---_18_22" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="35110.62" departLane="best" departPos="0.00" id="AVL---_2_23" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="35145.05" departLane="best" departPos="0.00" id="AVL---_4_23" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="35373.38" departLane="best" departPos="0.00" id="AVL---_21_23" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="35415.56" departLane="best" departPos="0.00" id="AVL---_18_23" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="35492.60" departLane="best" departPos="0.00" id="AVL---_14_22" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="37256.00" departLane="best" departPos="0.00" id="AVL---_14_25" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="37280.32" departLane="best" departPos="0.00" id="AVL---_24_24" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="37311.23" departLane="best" departPos="0.00" id="AVL---_24_25" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="37362.61" departLane="best" departPos="0.00" id="AVL---_4_24" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="37381.36" departLane="best" departPos="0.00" id="AVL---_2_24" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="37395.61" departLane="best" departPos="0.00" id="AVL---_21_24" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="37409.68" departLane="best" departPos="0.00" id="AVL---_18_24" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="37510.62" departLane="best" departPos="0.00" id="AVL---_2_25" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="37545.05" departLane="best" departPos="0.00" id="AVL---_4_25" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="37773.38" departLane="best" departPos="0.00" id="AVL---_21_25" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="37815.56" departLane="best" departPos="0.00" id="AVL---_18_25" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="37892.60" departLane="best" departPos="0.00" id="AVL---_14_24" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="39656.00" departLane="best" departPos="0.00" id="AVL---_14_27" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="39680.32" departLane="best" departPos="0.00" id="AVL---_24_26" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="39711.23" departLane="best" departPos="0.00" id="AVL---_24_27" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="39762.61" departLane="best" departPos="0.00" id="AVL---_4_26" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="39781.36" departLane="best" departPos="0.00" id="AVL---_2_26" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="39795.61" departLane="best" departPos="0.00" id="AVL---_21_26" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="39809.68" departLane="best" departPos="0.00" id="AVL---_18_26" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="39910.62" departLane="best" departPos="0.00" id="AVL---_2_27" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="39945.05" departLane="best" departPos="0.00" id="AVL---_4_27" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="40173.38" departLane="best" departPos="0.00" id="AVL---_21_27" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="40215.56" departLane="best" departPos="0.00" id="AVL---_18_27" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="40292.60" departLane="best" departPos="0.00" id="AVL---_14_26" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="41456.00" departLane="best" departPos="0.00" id="AVL---_14_29" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="41480.32" departLane="best" departPos="0.00" id="AVL---_24_28" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="41511.23" departLane="best" departPos="0.00" id="AVL---_24_29" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="41562.61" departLane="best" departPos="0.00" id="AVL---_4_28" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="41581.36" departLane="best" departPos="0.00" id="AVL---_2_28" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="41595.61" departLane="best" departPos="0.00" id="AVL---_21_28" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="41609.68" departLane="best" departPos="0.00" id="AVL---_18_28" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="41710.62" departLane="best" departPos="0.00" id="AVL---_2_29" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="41745.05" departLane="best" departPos="0.00" id="AVL---_4_29" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="41973.38" departLane="best" departPos="0.00" id="AVL---_21_29" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="42015.56" departLane="best" departPos="0.00" id="AVL---_18_29" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="42092.60" departLane="best" departPos="0.00" id="AVL---_14_28" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="43256.00" departLane="best" departPos="0.00" id="AVL---_14_31" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="43280.32" departLane="best" departPos="0.00" id="AVL---_24_30" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="43311.23" departLane="best" departPos="0.00" id="AVL---_24_31" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="43362.61" departLane="best" departPos="0.00" id="AVL---_4_30" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="43381.36" departLane="best" departPos="0.00" id="AVL---_2_30" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="43395.61" departLane="best" departPos="0.00" id="AVL---_21_30" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="43409.68" departLane="best" departPos="0.00" id="AVL---_18_30" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="43510.62" departLane="best" departPos="0.00" id="AVL---_2_31" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="43545.05" departLane="best" departPos="0.00" id="AVL---_4_31" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="43773.38" departLane="best" departPos="0.00" id="AVL---_21_31" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="43815.56" departLane="best" departPos="0.00" id="AVL---_18_31" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="43892.60" departLane="best" departPos="0.00" id="AVL---_14_30" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="45056.00" departLane="best" departPos="0.00" id="AVL---_14_33" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="45080.32" departLane="best" departPos="0.00" id="AVL---_24_32" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="45111.23" departLane="best" departPos="0.00" id="AVL---_24_33" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="45162.61" departLane="best" departPos="0.00" id="AVL---_4_32" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="45181.36" departLane="best" departPos="0.00" id="AVL---_2_32" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="45195.61" departLane="best" departPos="0.00" id="AVL---_21_32" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="45209.68" departLane="best" departPos="0.00" id="AVL---_18_32" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="45310.62" departLane="best" departPos="0.00" id="AVL---_2_33" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="45345.05" departLane="best" departPos="0.00" id="AVL---_4_33" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="45573.38" departLane="best" departPos="0.00" id="AVL---_21_33" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="45615.56" departLane="best" departPos="0.00" id="AVL---_18_33" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="45692.60" departLane="best" departPos="0.00" id="AVL---_14_32" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="46856.00" departLane="best" departPos="0.00" id="AVL---_14_35" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="46880.32" departLane="best" departPos="0.00" id="AVL---_24_34" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="46911.23" departLane="best" departPos="0.00" id="AVL---_24_35" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="46962.61" departLane="best" departPos="0.00" id="AVL---_4_34" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="46981.36" departLane="best" departPos="0.00" id="AVL---_2_34" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="46995.61" departLane="best" departPos="0.00" id="AVL---_21_34" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="47009.68" departLane="best" departPos="0.00" id="AVL---_18_34" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="47110.62" departLane="best" departPos="0.00" id="AVL---_2_35" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="47145.05" departLane="best" departPos="0.00" id="AVL---_4_35" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="47373.38" departLane="best" departPos="0.00" id="AVL---_21_35" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="47415.56" departLane="best" departPos="0.00" id="AVL---_18_35" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="47492.60" departLane="best" departPos="0.00" id="AVL---_14_34" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="48656.00" departLane="best" departPos="0.00" id="AVL---_14_37" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="48680.32" departLane="best" departPos="0.00" id="AVL---_24_36" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="48711.23" departLane="best" departPos="0.00" id="AVL---_24_37" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="48762.61" departLane="best" departPos="0.00" id="AVL---_4_36" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="48781.36" departLane="best" departPos="0.00" id="AVL---_2_36" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="48795.61" departLane="best" departPos="0.00" id="AVL---_21_36" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="48809.68" departLane="best" departPos="0.00" id="AVL---_18_36" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="48910.62" departLane="best" departPos="0.00" id="AVL---_2_37" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="48945.05" departLane="best" departPos="0.00" id="AVL---_4_37" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="49173.38" departLane="best" departPos="0.00" id="AVL---_21_37" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="49215.56" departLane="best" departPos="0.00" id="AVL---_18_37" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="49292.60" departLane="best" departPos="0.00" id="AVL---_14_36" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="50456.00" departLane="best" departPos="0.00" id="AVL---_14_39" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="50480.32" departLane="best" departPos="0.00" id="AVL---_24_38" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="50511.23" departLane="best" departPos="0.00" id="AVL---_24_39" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="50562.61" departLane="best" departPos="0.00" id="AVL---_4_38" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="50581.36" departLane="best" departPos="0.00" id="AVL---_2_38" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="50595.61" departLane="best" departPos="0.00" id="AVL---_21_38" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="50609.68" departLane="best" departPos="0.00" id="AVL---_18_38" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="50710.62" departLane="best" departPos="0.00" id="AVL---_2_39" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="50745.05" departLane="best" departPos="0.00" id="AVL---_4_39" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="50973.38" departLane="best" departPos="0.00" id="AVL---_21_39" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="51015.56" departLane="best" departPos="0.00" id="AVL---_18_39" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="51092.60" departLane="best" departPos="0.00" id="AVL---_14_38" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="54056.00" departLane="best" departPos="0.00" id="AVL---_14_41" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="54080.32" departLane="best" departPos="0.00" id="AVL---_24_40" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="54111.23" departLane="best" departPos="0.00" id="AVL---_24_41" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="54162.61" departLane="best" departPos="0.00" id="AVL---_4_40" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="54181.36" departLane="best" departPos="0.00" id="AVL---_2_40" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="54195.61" departLane="best" departPos="0.00" id="AVL---_21_40" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="54209.68" departLane="best" departPos="0.00" id="AVL---_18_40" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="54310.62" departLane="best" departPos="0.00" id="AVL---_2_41" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="54345.05" departLane="best" departPos="0.00" id="AVL---_4_41" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="54573.38" departLane="best" departPos="0.00" id="AVL---_21_41" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="54615.56" departLane="best" departPos="0.00" id="AVL---_18_41" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="54692.60" departLane="best" departPos="0.00" id="AVL---_14_40" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="57656.00" departLane="best" departPos="0.00" id="AVL---_14_43" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="57680.32" departLane="best" departPos="0.00" id="AVL---_24_42" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="57711.23" departLane="best" departPos="0.00" id="AVL---_24_43" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="57762.61" departLane="best" departPos="0.00" id="AVL---_4_42" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="57781.36" departLane="best" departPos="0.00" id="AVL---_2_42" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="57795.61" departLane="best" departPos="0.00" id="AVL---_21_42" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="57809.68" departLane="best" departPos="0.00" id="AVL---_18_42" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="57910.62" departLane="best" departPos="0.00" id="AVL---_2_43" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="57945.05" departLane="best" departPos="0.00" id="AVL---_4_43" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="58173.38" departLane="best" departPos="0.00" id="AVL---_21_43" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="58215.56" departLane="best" departPos="0.00" id="AVL---_18_43" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="58292.60" departLane="best" departPos="0.00" id="AVL---_14_42" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="59456.00" departLane="best" departPos="0.00" id="AVL---_14_45" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="59480.32" departLane="best" departPos="0.00" id="AVL---_24_44" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="59511.23" departLane="best" departPos="0.00" id="AVL---_24_45" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="59562.61" departLane="best" departPos="0.00" id="AVL---_4_44" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="59581.36" departLane="best" departPos="0.00" id="AVL---_2_44" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="59595.61" departLane="best" departPos="0.00" id="AVL---_21_44" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="59609.68" departLane="best" departPos="0.00" id="AVL---_18_44" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="59710.62" departLane="best" departPos="0.00" id="AVL---_2_45" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="59745.05" departLane="best" departPos="0.00" id="AVL---_4_45" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="59973.38" departLane="best" departPos="0.00" id="AVL---_21_45" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="60015.56" departLane="best" departPos="0.00" id="AVL---_18_45" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="60092.60" departLane="best" departPos="0.00" id="AVL---_14_44" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="61256.00" departLane="best" departPos="0.00" id="AVL---_14_47" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="61280.32" departLane="best" departPos="0.00" id="AVL---_24_46" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="61311.23" departLane="best" departPos="0.00" id="AVL---_24_47" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="61362.61" departLane="best" departPos="0.00" id="AVL---_4_46" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="61381.36" departLane="best" departPos="0.00" id="AVL---_2_46" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="61395.61" departLane="best" departPos="0.00" id="AVL---_21_46" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="61409.68" departLane="best" departPos="0.00" id="AVL---_18_46" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="61510.62" departLane="best" departPos="0.00" id="AVL---_2_47" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="61545.05" departLane="best" departPos="0.00" id="AVL---_4_47" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="61773.38" departLane="best" departPos="0.00" id="AVL---_21_47" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="61815.56" departLane="best" departPos="0.00" id="AVL---_18_47" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="61892.60" departLane="best" departPos="0.00" id="AVL---_14_46" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="63056.00" departLane="best" departPos="0.00" id="AVL---_14_49" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="63080.32" departLane="best" departPos="0.00" id="AVL---_24_48" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="63111.23" departLane="best" departPos="0.00" id="AVL---_24_49" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="63162.61" departLane="best" departPos="0.00" id="AVL---_4_48" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="63181.36" departLane="best" departPos="0.00" id="AVL---_2_48" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="63195.61" departLane="best" departPos="0.00" id="AVL---_21_48" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="63209.68" departLane="best" departPos="0.00" id="AVL---_18_48" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="63310.62" departLane="best" departPos="0.00" id="AVL---_2_49" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="63345.05" departLane="best" departPos="0.00" id="AVL---_4_49" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="63573.38" departLane="best" departPos="0.00" id="AVL---_21_49" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="63615.56" departLane="best" departPos="0.00" id="AVL---_18_49" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="63692.60" departLane="best" departPos="0.00" id="AVL---_14_48" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="64856.00" departLane="best" departPos="0.00" id="AVL---_14_51" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="64880.32" departLane="best" departPos="0.00" id="AVL---_24_50" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="64911.23" departLane="best" departPos="0.00" id="AVL---_24_51" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="64962.61" departLane="best" departPos="0.00" id="AVL---_4_50" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="64981.36" departLane="best" departPos="0.00" id="AVL---_2_50" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="64995.61" departLane="best" departPos="0.00" id="AVL---_21_50" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="65009.68" departLane="best" departPos="0.00" id="AVL---_18_50" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="65110.62" departLane="best" departPos="0.00" id="AVL---_2_51" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="65145.05" departLane="best" departPos="0.00" id="AVL---_4_51" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="65373.38" departLane="best" departPos="0.00" id="AVL---_21_51" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="65415.56" departLane="best" departPos="0.00" id="AVL---_18_51" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="65492.60" departLane="best" departPos="0.00" id="AVL---_14_50" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="66656.00" departLane="best" departPos="0.00" id="AVL---_14_53" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="66680.32" departLane="best" departPos="0.00" id="AVL---_24_52" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="66711.23" departLane="best" departPos="0.00" id="AVL---_24_53" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="66762.61" departLane="best" departPos="0.00" id="AVL---_4_52" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="66781.36" departLane="best" departPos="0.00" id="AVL---_2_52" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="66795.61" departLane="best" departPos="0.00" id="AVL---_21_52" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="66809.68" departLane="best" departPos="0.00" id="AVL---_18_52" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="66910.62" departLane="best" departPos="0.00" id="AVL---_2_53" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="66945.05" departLane="best" departPos="0.00" id="AVL---_4_53" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="67173.38" departLane="best" departPos="0.00" id="AVL---_21_53" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="67215.56" departLane="best" departPos="0.00" id="AVL---_18_53" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="67292.60" departLane="best" departPos="0.00" id="AVL---_14_52" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="68456.00" departLane="best" departPos="0.00" id="AVL---_14_55" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="68480.32" departLane="best" departPos="0.00" id="AVL---_24_54" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="68511.23" departLane="best" departPos="0.00" id="AVL---_24_55" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="68562.61" departLane="best" departPos="0.00" id="AVL---_4_54" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="68581.36" departLane="best" departPos="0.00" id="AVL---_2_54" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="68595.61" departLane="best" departPos="0.00" id="AVL---_21_54" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="68609.68" departLane="best" departPos="0.00" id="AVL---_18_54" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="68710.62" departLane="best" departPos="0.00" id="AVL---_2_55" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="68745.05" departLane="best" departPos="0.00" id="AVL---_4_55" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="68973.38" departLane="best" departPos="0.00" id="AVL---_21_55" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="69015.56" departLane="best" departPos="0.00" id="AVL---_18_55" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="69092.60" departLane="best" departPos="0.00" id="AVL---_14_54" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="70256.00" departLane="best" departPos="0.00" id="AVL---_14_57" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="70280.32" departLane="best" departPos="0.00" id="AVL---_24_56" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="70311.23" departLane="best" departPos="0.00" id="AVL---_24_57" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="70362.61" departLane="best" departPos="0.00" id="AVL---_4_56" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="70381.36" departLane="best" departPos="0.00" id="AVL---_2_56" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="70395.61" departLane="best" departPos="0.00" id="AVL---_21_56" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="70409.68" departLane="best" departPos="0.00" id="AVL---_18_56" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="70510.62" departLane="best" departPos="0.00" id="AVL---_2_57" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="70545.05" departLane="best" departPos="0.00" id="AVL---_4_57" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="70773.38" departLane="best" departPos="0.00" id="AVL---_21_57" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="70815.56" departLane="best" departPos="0.00" id="AVL---_18_57" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="70892.60" departLane="best" departPos="0.00" id="AVL---_14_56" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="72056.00" departLane="best" departPos="0.00" id="AVL---_14_59" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="72080.32" departLane="best" departPos="0.00" id="AVL---_24_58" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="72111.23" departLane="best" departPos="0.00" id="AVL---_24_59" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="72162.61" departLane="best" departPos="0.00" id="AVL---_4_58" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="72181.36" departLane="best" departPos="0.00" id="AVL---_2_58" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="72195.61" departLane="best" departPos="0.00" id="AVL---_21_58" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="72209.68" departLane="best" departPos="0.00" id="AVL---_18_58" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="72310.62" departLane="best" departPos="0.00" id="AVL---_2_59" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="72345.05" departLane="best" departPos="0.00" id="AVL---_4_59" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="72573.38" departLane="best" departPos="0.00" id="AVL---_21_59" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="72615.56" departLane="best" departPos="0.00" id="AVL---_18_59" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="72692.60" departLane="best" departPos="0.00" id="AVL---_14_58" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="75656.00" departLane="best" departPos="0.00" id="AVL---_14_61" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="75680.32" departLane="best" departPos="0.00" id="AVL---_24_60" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="75711.23" departLane="best" departPos="0.00" id="AVL---_24_61" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="75762.61" departLane="best" departPos="0.00" id="AVL---_4_60" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="75781.36" departLane="best" departPos="0.00" id="AVL---_2_60" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="75795.61" departLane="best" departPos="0.00" id="AVL---_21_60" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="75809.68" departLane="best" departPos="0.00" id="AVL---_18_60" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="75910.62" departLane="best" departPos="0.00" id="AVL---_2_61" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="75945.05" departLane="best" departPos="0.00" id="AVL---_4_61" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="76173.38" departLane="best" departPos="0.00" id="AVL---_21_61" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="76215.56" departLane="best" departPos="0.00" id="AVL---_18_61" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="76292.60" departLane="best" departPos="0.00" id="AVL---_14_60" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="79256.00" departLane="best" departPos="0.00" id="AVL---_14_63" type="bus">
+        <route edges="--30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="79280.32" departLane="best" departPos="0.00" id="AVL---_24_62" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="79311.23" departLane="best" departPos="0.00" id="AVL---_24_63" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="79362.61" departLane="best" departPos="0.00" id="AVL---_4_62" type="bus">
+        <route edges="--31066#8 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="79381.36" departLane="best" departPos="0.00" id="AVL---_2_62" type="bus">
+        <route edges="--32558 -30832#0 -30832#1 -31814 -32984#0 -32984#1 -32984#2 -32528#0 -32528#1 -32528#2 -32528#3 -30968#2 -30968#3 -30348#2 -30348#3 -30348#4 -30348#5 -32914#2 -32914#3 -31066#0 -31066#1 -31066#2 -31066#3 -31066#4 -31066#5"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="79395.61" departLane="best" departPos="0.00" id="AVL---_21_62" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --30892#21 --30892#20"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="79409.68" departLane="best" departPos="0.00" id="AVL---_18_62" type="bus">
+        <route edges="--30892#26 --30892#25 --30892#24 --30892#23 --30892#22 --31066#7 --31066#6"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="79510.62" departLane="best" departPos="0.00" id="AVL---_2_63" type="bus">
+        <route edges="--31066#5 --31066#4 --31066#3 --31066#2 --31066#1 --31066#0 -32914#1 --30348#5 --30348#4 --30348#3 --30348#2 --30968#3 --30346#0 -30892#25 -32558"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="79545.05" departLane="best" departPos="0.00" id="AVL---_4_63" type="bus">
+        <route edges="-30892#20 -30892#21 -31066#8"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="79773.38" departLane="best" departPos="0.00" id="AVL---_21_63" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="79815.56" departLane="best" departPos="0.00" id="AVL---_18_63" type="bus">
+        <route edges="-31066#6 -31066#7 -30892#22 -30892#23 -30892#24 -30892#25 -30892#26"/>
+    </vehicle>
+    <vehicle arrivalPos="-1.00" color="green" depart="79892.60" departLane="best" departPos="0.00" id="AVL---_14_62" type="bus">
+        <route edges="-30892#20 -30892#21 -30892#22 -30892#23 -30892#24"/>
+    </vehicle>
+</routes>

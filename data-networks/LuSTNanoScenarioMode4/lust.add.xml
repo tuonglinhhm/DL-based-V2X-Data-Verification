@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on jeu. 31 janv. 2019 14:53:38 CET by Eclipse SUMO netedit Version 1.0.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="/home/joseph/Projects/F2MD/SumoExtractor/Extract%20Lust/LuSTScenario/lust.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="/home/joseph/Projects/F2MD/SumoExtractor/Extract%20Lust/LuSTMicroScenario/lust.net.xml"/>
+    </output>
+
+    <processing>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="false"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="0"/>
+        <junctions.limit-turn-speed value="-1"/>
+        <rectangular-lane-cut value="false"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="false"/>
+    </pedestrian>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <busStop id="137" lane="--31066#3_0" startPos="36.83" endPos="46.83"/>
+    <busStop id="138" lane="-31066#3_0" startPos="48.15" endPos="58.15"/>
+    <busStop id="215" lane="-30892#21_0" startPos="43.46" endPos="53.46"/>
+    <busStop id="216" lane="--30892#21_0" startPos="111.91" endPos="121.91"/>
+    <busStop id="229" lane="--31066#7_0" startPos="267.68" endPos="277.68"/>
+    <busStop id="230" lane="-31066#7_0" startPos="334.00" endPos="344.00"/>
+    <busStop id="248" lane="-30892#25_0" startPos="235.90" endPos="245.90"/>
+    <busStop id="249" lane="--30892#25_0" startPos="95.85" endPos="105.85"/>
+    <busStop id="344" lane="-31340#2_0" startPos="20.79" endPos="30.79"/>
+    <busStop id="345" lane="--31340#2_0" startPos="21.35" endPos="31.35"/>
+    <busStop id="414" lane="-30892#24_0" startPos="82.02" endPos="92.02"/>
+    <busStop id="415" lane="--30892#24_0" startPos="63.70" endPos="73.70"/>
+    <busStop id="450" lane="-30348#3_0" startPos="29.02" endPos="39.02"/>
+    <busStop id="451" lane="--30348#3_0" startPos="24.07" endPos="34.07"/>
+    <busStop id="474" lane="--31066#6_0" startPos="40.02" endPos="50.02"/>
+    <busStop id="475" lane="-31066#6_0" startPos="45.85" endPos="55.85"/>
+    <busStop id="586" lane="-30348#5_0" startPos="107.01" endPos="117.01"/>
+    <busStop id="587" lane="--30348#5_0" startPos="51.89" endPos="61.89"/>
+    <busStop id="598" lane="-30348#2_0" startPos="57.53" endPos="67.53"/>
+    <busStop id="599" lane="--30348#2_0" startPos="52.72" endPos="62.72"/>
+    <busStop id="628" lane="--31066#5_0" startPos="76.53" endPos="86.53"/>
+    <busStop id="629" lane="-31066#5_0" startPos="93.88" endPos="103.88"/>
+    <busStop id="656" lane="-31814_0" startPos="56.07" endPos="66.07"/>
+    <busStop id="71" lane="--31066#8_0" startPos="112.51" endPos="122.51"/>
+    <busStop id="72" lane="-31066#8_0" startPos="99.67" endPos="109.67"/>
+    <e1Detector id="1224_B_-16936" lane="-32560_0" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1225_E_-16936" lane="--32560_0" pos="86.93" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1226_E_-16936" lane="-30348#4_0" pos="111.13" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1227_E_-16936" lane="-30348#4_1" pos="111.13" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1228_B_-16936" lane="-30348#5_0" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1229_B_-16936" lane="-30348#5_1" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1230_B_-16936" lane="--32474#1_0" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1231_E_-16936" lane="-32474#1_0" pos="75.64" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1232_B_-16936" lane="--30348#4_0" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1233_B_-16936" lane="--30348#4_1" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1234_E_-16936" lane="--30348#5_0" pos="153.18" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1235_E_-16936" lane="--30348#5_1" pos="153.18" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1371_E_-16128" lane="--30832#0_0" pos="52.59" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1372_E_-16128" lane="-30892#25_0" pos="325.78" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1373_E_-16128" lane="-30892#25_1" pos="325.78" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1374_E_-16128" lane="-30892#25_2" pos="325.78" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1375_B_-16128" lane="-30832#0_0" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1376_B_-16128" lane="-30892#26_0" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1377_B_-16128" lane="-30892#26_1" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1378_B_-16128" lane="-30892#26_2" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1379_E_-16128" lane="--30892#26_0" pos="232.29" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1380_E_-16128" lane="--30892#26_1" pos="232.29" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1381_E_-16128" lane="--30892#26_2" pos="232.29" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1382_B_-16128" lane="--30892#25_0" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1383_B_-16128" lane="--30892#25_1" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1384_B_-16128" lane="--30892#25_2" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1671_B_-12582" lane="-30346#0_0" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1672_B_-12582" lane="-30892#25_0" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1673_B_-12582" lane="-30892#25_1" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1674_B_-12582" lane="-30892#25_2" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1675_E_-12582" lane="-30892#24_0" pos="134.00" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1676_E_-12582" lane="-30892#24_1" pos="134.00" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1677_E_-12582" lane="-30892#24_2" pos="134.00" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1678_E_-12582" lane="--30892#25_0" pos="325.58" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1679_E_-12582" lane="--30892#25_1" pos="325.58" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1680_E_-12582" lane="--30892#25_2" pos="325.58" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1681_B_-12582" lane="--30892#24_0" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1682_B_-12582" lane="--30892#24_1" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1683_B_-12582" lane="--30892#24_2" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1684_E_-12582" lane="--30346#0_0" pos="115.72" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1716_E_-12084" lane="-30892#23_0" pos="33.00" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1717_E_-12084" lane="-30892#23_1" pos="33.00" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1718_E_-12084" lane="-30892#23_2" pos="33.00" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1719_B_-12084" lane="-30892#24_0" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1720_B_-12084" lane="-30892#24_1" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1721_B_-12084" lane="-30892#24_2" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1722_B_-12084" lane="-30348#0_0" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1723_B_-12084" lane="-30348#0_1" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1724_B_-12084" lane="--30892#23_0" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1725_B_-12084" lane="--30892#23_1" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1726_B_-12084" lane="--30892#23_2" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="1727_E_-12084" lane="--30892#24_0" pos="133.77" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1728_E_-12084" lane="--30892#24_1" pos="133.77" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1729_E_-12084" lane="--30892#24_2" pos="133.77" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1730_E_-12084" lane="--30348#0_0" pos="128.73" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="1731_E_-12084" lane="--30348#0_1" pos="128.73" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="2728_B_-1644" lane="-30892#21_0" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="2729_B_-1644" lane="-30892#21_1" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="2730_B_-1644" lane="-30892#21_2" pos="5.00" freq="1800.00" file="e1_begin_output.xml"/>
+    <e1Detector id="2732_E_-1644" lane="--30892#21_0" pos="149.60" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="2733_E_-1644" lane="--30892#21_1" pos="149.60" freq="1800.00" file="e1_end_output.xml"/>
+    <e1Detector id="2734_E_-1644" lane="--30892#21_2" pos="149.60" freq="1800.00" file="e1_end_output.xml"/>
+</additional>

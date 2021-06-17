@@ -1,0 +1,2 @@
+#!/bin/sh
+../../../simulte-f2md/src/run_lte $*

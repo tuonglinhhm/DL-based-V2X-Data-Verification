@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2019-10-17 21:20:10.369466 by $Id$
+  options: <doubleminus>net-file UlmScenario.net.xml <doubleminus>route-file UlmScenario.359.rou.xml <doubleminus>fringe-factor 800 <doubleminus>begin 82800 -l <doubleminus>end 86400 -l <doubleminus>period 210 -l <doubleminus>prefix x5c <doubleminus>trip-attributes=type= "passenger5c"  <doubleminus>additional-files type.add.xml <doubleminus>edge-permission passenger
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="x5c0" depart="82800.00" from="-55913203#1" to="222222910" type= "passenger5c"/>
+    <trip id="x5c1" depart="83010.00" from="329286293#0" to="222222910" type= "passenger5c"/>
+    <trip id="x5c2" depart="83220.00" from="-310214406" to="4441829" type= "passenger5c"/>
+    <trip id="x5c3" depart="83430.00" from="-584518943#2" to="4441817#2" type= "passenger5c"/>
+    <trip id="x5c4" depart="83640.00" from="-28216748" to="-4609572#0" type= "passenger5c"/>
+    <trip id="x5c5" depart="83850.00" from="60251895" to="-317794125#0" type= "passenger5c"/>
+    <trip id="x5c6" depart="84060.00" from="84018136#0" to="4396732" type= "passenger5c"/>
+    <trip id="x5c7" depart="84270.00" from="4609572#0" to="-200843277#0" type= "passenger5c"/>
+    <trip id="x5c8" depart="84480.00" from="227562699#0" to="34074908#4" type= "passenger5c"/>
+    <trip id="x5c9" depart="84690.00" from="-310214400" to="-317794120" type= "passenger5c"/>
+    <trip id="x5c10" depart="84900.00" from="-4705777#4" to="35135627" type= "passenger5c"/>
+    <trip id="x5c11" depart="85110.00" from="60251895" to="4611394#10" type= "passenger5c"/>
+    <trip id="x5c12" depart="85320.00" from="4609572#0" to="596568012#1" type= "passenger5c"/>
+    <trip id="x5c13" depart="85530.00" from="4609572#0" to="454027478" type= "passenger5c"/>
+    <trip id="x5c14" depart="85740.00" from="60251895" to="589943087" type= "passenger5c"/>
+    <trip id="x5c15" depart="85950.00" from="347396618#1" to="222222910" type= "passenger5c"/>
+    <trip id="x5c16" depart="86160.00" from="35135632#0" to="4441829" type= "passenger5c"/>
+    <trip id="x5c17" depart="86370.00" from="-4441817#2" to="186702383" type= "passenger5c"/>
+</routes>

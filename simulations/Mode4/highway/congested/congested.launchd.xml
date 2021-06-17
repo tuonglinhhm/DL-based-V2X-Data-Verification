@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- debug config -->
+<launch>
+	<basedir path="/home/joseph/Projects/C-V2X/git-repositories/simulte-f2md/simulations/Mode4/highway/congested" />
+    <copy file="congested.net.xml" />
+    <copy file="congested.rou.xml" />
+    <copy file="rerouters.add.xml" />
+    <copy file="congested.sumo.cfg" type="config" />
+</launch>
+

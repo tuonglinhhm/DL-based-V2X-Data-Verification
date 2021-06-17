@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on jeu. 31 janv. 2019 13:29:47 CET by Eclipse SUMO GUI Version 1.0.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="/home/joseph/F2MD/SumoTest/Extract%20Lust/LustFiltered/lust-filt.net.xml"/>
+        <route-files value="/home/joseph/F2MD/SumoTest/Extract%20Lust/LustFiltered/buslines-filt.rou.xml,/home/joseph/F2MD/SumoTest/Extract%20Lust/LustFiltered/due-filt.local.actuated.0.rou.xml,/home/joseph/F2MD/SumoTest/Extract%20Lust/LustFiltered/due-filt.local.actuated.1.rou.xml,/home/joseph/F2MD/SumoTest/Extract%20Lust/LustFiltered/due-filt.local.actuated.2.rou.xml"/>
+        <additional-files value="/home/joseph/F2MD/SumoTest/Extract%20Lust/LustFiltered/vtypes.add.xml,/home/joseph/F2MD/SumoTest/Extract%20Lust/LustFiltered/lust-filt.add.xml,/home/joseph/F2MD/SumoTest/Extract%20Lust/LustFiltered/lust-filt.poly.xml"/>
+    </input>
+
+    <output>
+        <summary-output value="/home/joseph/F2MD/SumoTest/Extract%20Lust/LustFiltered/due-filt.actuated.summary.xml"/>
+        <tripinfo-output value="/home/joseph/F2MD/SumoTest/Extract%20Lust/LustFiltered/due-filt.actuated.tripinfo.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="86400"/>
+        <step-length value="0.1"/>
+    </time>
+
+    <processing>
+        <ignore-junction-blocker value="20"/>
+        <scale value="1"/>
+        <time-to-teleport value="600"/>
+        <max-depart-delay value="600"/>
+    </processing>
+
+    <routing>
+        <routing-algorithm value="dijkstra"/>
+    </routing>
+
+    <report>
+        <verbose value="true"/>
+        <log value="/home/joseph/F2MD/SumoTest/Extract%20Lust/LustFiltered/due.actuated.log"/>
+    </report>
+
+    <gui_only>
+        <gui-settings-file value="/home/joseph/F2MD/SumoTest/Extract%20Lust/LustFiltered/gui-settings.cfg.xml"/>
+        <start value="true"/>
+        <tracker-interval value="0.1"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e1_file.xsd">
+    <interval begin="0.00" end="1800.00" id="2859_link" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="0.00" end="1800.00" id="2884_link" nVehContrib="2" flow="4.00" occupancy="0.04" speed="17.51" length="5.75" nVehEntered="2"/>
+    <interval begin="1800.00" end="3600.00" id="2859_link" nVehContrib="1" flow="2.00" occupancy="0.01" speed="19.43" length="4.50" nVehEntered="1"/>
+    <interval begin="1800.00" end="3600.00" id="2884_link" nVehContrib="4" flow="8.00" occupancy="0.06" speed="18.84" length="5.12" nVehEntered="4"/>
+    <interval begin="3600.00" end="5400.00" id="2859_link" nVehContrib="4" flow="8.00" occupancy="0.06" speed="17.40" length="4.62" nVehEntered="4"/>
+    <interval begin="3600.00" end="5400.00" id="2884_link" nVehContrib="1" flow="2.00" occupancy="0.01" speed="19.64" length="4.50" nVehEntered="1"/>
+    <interval begin="5400.00" end="7200.00" id="2859_link" nVehContrib="1" flow="2.00" occupancy="0.02" speed="14.65" length="5.00" nVehEntered="1"/>
+    <interval begin="5400.00" end="7200.00" id="2884_link" nVehContrib="3" flow="6.00" occupancy="0.04" speed="21.63" length="5.00" nVehEntered="3"/>
+    <interval begin="7200.00" end="9000.00" id="2859_link" nVehContrib="3" flow="6.00" occupancy="0.04" speed="18.80" length="4.50" nVehEntered="3"/>
+    <interval begin="7200.00" end="9000.00" id="2884_link" nVehContrib="7" flow="14.00" occupancy="0.09" speed="19.69" length="4.64" nVehEntered="7"/>
+    <interval begin="9000.00" end="10800.00" id="2859_link" nVehContrib="3" flow="6.00" occupancy="0.05" speed="20.61" length="6.00" nVehEntered="3"/>
+    <interval begin="9000.00" end="10800.00" id="2884_link" nVehContrib="3" flow="6.00" occupancy="0.05" speed="21.68" length="6.00" nVehEntered="3"/>
+    <interval begin="10800.00" end="12600.00" id="2859_link" nVehContrib="2" flow="4.00" occupancy="0.03" speed="20.96" length="4.75" nVehEntered="2"/>
+    <interval begin="10800.00" end="12600.00" id="2884_link" nVehContrib="2" flow="4.00" occupancy="0.02" speed="21.70" length="4.75" nVehEntered="2"/>
+    <interval begin="12600.00" end="14400.00" id="2859_link" nVehContrib="1" flow="2.00" occupancy="0.02" speed="19.24" length="6.00" nVehEntered="1"/>
+    <interval begin="12600.00" end="14400.00" id="2884_link" nVehContrib="4" flow="8.00" occupancy="0.06" speed="19.55" length="5.25" nVehEntered="4"/>
+    <interval begin="14400.00" end="16200.00" id="2859_link" nVehContrib="4" flow="8.00" occupancy="0.06" speed="18.54" length="4.88" nVehEntered="4"/>
+    <interval begin="14400.00" end="16200.00" id="2884_link" nVehContrib="7" flow="14.00" occupancy="0.10" speed="19.95" length="4.93" nVehEntered="7"/>
+    <interval begin="16200.00" end="18000.00" id="2859_link" nVehContrib="7" flow="14.00" occupancy="0.11" speed="17.50" length="4.79" nVehEntered="7"/>
+    <interval begin="16200.00" end="18000.00" id="2884_link" nVehContrib="15" flow="30.00" occupancy="0.22" speed="19.48" length="5.13" nVehEntered="15"/>
+    <interval begin="18000.00" end="19800.00" id="2859_link" nVehContrib="23" flow="46.00" occupancy="0.33" speed="19.30" length="4.96" nVehEntered="23"/>
+    <interval begin="18000.00" end="19800.00" id="2884_link" nVehContrib="57" flow="114.00" occupancy="0.87" speed="19.16" length="5.21" nVehEntered="57"/>
+    <interval begin="19800.00" end="21600.00" id="2859_link" nVehContrib="37" flow="74.00" occupancy="0.55" speed="18.79" length="4.95" nVehEntered="37"/>
+    <interval begin="19800.00" end="21600.00" id="2884_link" nVehContrib="106" flow="212.00" occupancy="1.56" speed="19.18" length="5.03" nVehEntered="106"/>
+    <interval begin="21600.00" end="23400.00" id="2859_link" nVehContrib="72" flow="144.00" occupancy="1.05" speed="19.39" length="5.05" nVehEntered="72"/>
+    <interval begin="21600.00" end="23400.00" id="2884_link" nVehContrib="152" flow="304.00" occupancy="2.23" speed="19.08" length="4.98" nVehEntered="152"/>
+    <interval begin="23400.00" end="25200.00" id="2859_link" nVehContrib="111" flow="222.00" occupancy="1.66" speed="18.90" length="5.04" nVehEntered="111"/>
+    <interval begin="23400.00" end="25200.00" id="2884_link" nVehContrib="251" flow="502.00" occupancy="3.77" speed="18.79" length="5.03" nVehEntered="251"/>
+    <interval begin="25200.00" end="25257.20" id="2859_link" nVehContrib="2" flow="125.87" occupancy="0.85" speed="19.54" length="4.75" nVehEntered="2"/>
+    <interval begin="25200.00" end="25257.20" id="2884_link" nVehContrib="13" flow="818.18" occupancy="6.71" speed="17.99" length="5.27" nVehEntered="13"/>
+</detector>

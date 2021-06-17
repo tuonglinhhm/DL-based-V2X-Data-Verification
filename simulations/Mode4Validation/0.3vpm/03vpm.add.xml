@@ -1,0 +1,15 @@
+<additional>
+   <route id="route0" color="1,1,0" edges="LSRE"/>   
+   <route id="route1" color="0,1,1" edges="RELS"/>
+
+   <rerouter id="rerouter_0" edges="RELS">
+       <interval end="10000000">
+          <destProbReroute id="LSRE" probability="1"/>
+       </interval>
+   </rerouter>
+   <rerouter id="rerouter_1" edges="LSRE">
+       <interval end="10000000">
+	  <destProbReroute id="RELS" probability="1"/>
+       </interval>
+   </rerouter>
+</additional>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <!--debug config-->
+    <copy file="UlmScenario.net.xml"/>
+    <copy file="UlmScenario.0.rou.xml"/>
+    <copy file="UlmScenario.1.rou.xml"/>
+    <copy file="UlmScenario.2.rou.xml"/>
+    <copy file="UlmScenario.3.rou.xml"/>
+    <copy file="UlmScenario.4.rou.xml"/>
+    <copy file="UlmScenario.5.rou.xml"/>
+    <copy file="UlmScenario.6.rou.xml"/>
+    <copy file="UlmScenario.7.rou.xml"/>
+    <copy file="UlmScenario.8.rou.xml"/>
+    <copy file="UlmScenario.9.rou.xml"/>
+    <copy file="UlmScenario.10.rou.xml"/>
+    <copy file="UlmScenario.11.rou.xml"/>
+    <copy file="UlmScenario.12.rou.xml"/>
+    <copy file="UlmScenario.13.rou.xml"/>
+    <copy file="UlmScenario.14.rou.xml"/>
+    <copy file="UlmScenario.poly.xml"/>
+    <copy file="gui-settings.cfg.xml"/>
+    <copy file="UlmScenario.sumo.cfg" type="config"/>
+</launch>

@@ -1,0 +1,14 @@
+#! /bin/sh
+DIR=`dirname $0`
+DIR=`(cd $DIR ; pwd)`
+INET_DIR=`(cd $DIR/../../inet/src ; pwd)`
+VEINS_DIR=`(cd $DIR/../../veins-f2md/src/veins ; pwd)`
+VEINS_INET_DIR=`(cd $DIR/../../veins-f2md/subprojects/veins_inet3/src/veins_inet ; pwd)`
+
+COMMAND_LINE_OPTIONS="-n ..:../../simulations:../../src:$DIR:$INET_DIR:$VEINS_DIR:$VEINS_INET_DIR -l $INET_DIR/INET -l $VEINS_DIR -l $VEINS_INET_DIR"
+
+if [ -x $DIR/lte -o -x $DIR/lte.exe ]; then
+  $DIR/lte $COMMAND_LINE_OPTIONS $*
+else
+  opp_run -l $DIR/lte $COMMAND_LINE_OPTIONS $*
+fi

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on jeu. 31 janv. 2019 15:00:09 CET by Eclipse SUMO GUI Version 1.0.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="/home/joseph/Projects/F2MD/SumoExtractor/Extract%20Lust/LuSTMiniScenario/lust.net.xml"/>
+        <route-files value="/home/joseph/Projects/F2MD/SumoExtractor/Extract%20Lust/LuSTMiniScenario/buslines.rou.xml,/home/joseph/Projects/F2MD/SumoExtractor/Extract%20Lust/LuSTMiniScenario/due.local.actuated.0.rou.xml,/home/joseph/Projects/F2MD/SumoExtractor/Extract%20Lust/LuSTMiniScenario/due.local.actuated.1.rou.xml,/home/joseph/Projects/F2MD/SumoExtractor/Extract%20Lust/LuSTMiniScenario/due.local.actuated.2.rou.xml"/>
+        <additional-files value="/home/joseph/Projects/F2MD/SumoExtractor/Extract%20Lust/LuSTMiniScenario/vtypes.add.xml,/home/joseph/Projects/F2MD/SumoExtractor/Extract%20Lust/LuSTMiniScenario/lust.add.xml,/home/joseph/Projects/F2MD/SumoExtractor/Extract%20Lust/LuSTMiniScenario/lust.poly.xml"/>
+    </input>
+
+    <output>
+        <summary-output value="/home/joseph/Projects/F2MD/SumoExtractor/Extract%20Lust/LuSTMiniScenario/due.actuated.summary.xml"/>
+        <tripinfo-output value="/home/joseph/Projects/F2MD/SumoExtractor/Extract%20Lust/LuSTMiniScenario/due.actuated.tripinfo.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="86400"/>
+        <step-length value="0.1"/>
+    </time>
+
+    <processing>
+        <ignore-junction-blocker value="20"/>
+        <scale value="1"/>
+        <time-to-teleport value="600"/>
+        <max-depart-delay value="600"/>
+    </processing>
+
+    <routing>
+        <routing-algorithm value="dijkstra"/>
+    </routing>
+
+    <report>
+        <verbose value="true"/>
+        <log value="/home/joseph/Projects/F2MD/SumoExtractor/Extract%20Lust/LuSTMiniScenario/due.actuated.log"/>
+    </report>
+
+    <gui_only>
+        <gui-settings-file value="/home/joseph/Projects/F2MD/SumoExtractor/Extract%20Lust/LuSTMiniScenario/gui-settings.cfg.xml"/>
+        <start value="true"/>
+        <tracker-interval value="0.1"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e1_file.xsd">
+    <interval begin="0.00" end="1800.00" id="2900_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="0.00" end="1800.00" id="2901_OnRamp" nVehContrib="1" flow="2.00" occupancy="0.02" speed="11.70" length="4.50" nVehEntered="1"/>
+    <interval begin="0.00" end="1800.00" id="2902_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="0.00" end="1800.00" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1800.00" end="3600.00" id="2900_OnRamp" nVehContrib="1" flow="2.00" occupancy="0.01" speed="17.06" length="4.50" nVehEntered="1"/>
+    <interval begin="1800.00" end="3600.00" id="2901_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1800.00" end="3600.00" id="2902_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1800.00" end="3600.00" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="3600.00" end="5400.00" id="2900_OnRamp" nVehContrib="2" flow="4.00" occupancy="0.06" speed="10.80" length="4.75" nVehEntered="3"/>
+    <interval begin="3600.00" end="5400.00" id="2901_OnRamp" nVehContrib="1" flow="2.00" occupancy="0.01" speed="17.59" length="4.50" nVehEntered="1"/>
+    <interval begin="3600.00" end="5400.00" id="2902_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="3600.00" end="5400.00" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="5400.00" end="7200.00" id="2900_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="5400.00" end="7200.00" id="2901_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="5400.00" end="7200.00" id="2902_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="5400.00" end="7200.00" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="7200.00" end="9000.00" id="2900_OnRamp" nVehContrib="1" flow="2.00" occupancy="0.02" speed="11.95" length="4.50" nVehEntered="1"/>
+    <interval begin="7200.00" end="9000.00" id="2901_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="7200.00" end="9000.00" id="2902_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="7200.00" end="9000.00" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9000.00" end="10800.00" id="2900_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9000.00" end="10800.00" id="2901_OnRamp" nVehContrib="1" flow="2.00" occupancy="0.01" speed="18.25" length="4.50" nVehEntered="1"/>
+    <interval begin="9000.00" end="10800.00" id="2902_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9000.00" end="10800.00" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="10800.00" end="12600.00" id="2900_OnRamp" nVehContrib="1" flow="2.00" occupancy="0.02" speed="15.06" length="5.00" nVehEntered="1"/>
+    <interval begin="10800.00" end="12600.00" id="2901_OnRamp" nVehContrib="1" flow="2.00" occupancy="0.02" speed="19.59" length="5.50" nVehEntered="1"/>
+    <interval begin="10800.00" end="12600.00" id="2902_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="10800.00" end="12600.00" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="12600.00" end="14400.00" id="2900_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="12600.00" end="14400.00" id="2901_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="12600.00" end="14400.00" id="2902_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="12600.00" end="14400.00" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="14400.00" end="16200.00" id="2900_OnRamp" nVehContrib="2" flow="4.00" occupancy="0.03" speed="17.96" length="5.00" nVehEntered="3"/>
+    <interval begin="14400.00" end="16200.00" id="2901_OnRamp" nVehContrib="3" flow="6.00" occupancy="0.08" speed="12.44" length="5.67" nVehEntered="3"/>
+    <interval begin="14400.00" end="16200.00" id="2902_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="14400.00" end="16200.00" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="16200.00" end="18000.00" id="2900_OnRamp" nVehContrib="3" flow="6.00" occupancy="0.05" speed="17.76" length="5.17" nVehEntered="3"/>
+    <interval begin="16200.00" end="18000.00" id="2901_OnRamp" nVehContrib="7" flow="14.00" occupancy="0.22" speed="12.86" length="5.07" nVehEntered="8"/>
+    <interval begin="16200.00" end="18000.00" id="2902_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="16200.00" end="18000.00" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="18000.00" end="19800.00" id="2900_OnRamp" nVehContrib="10" flow="20.00" occupancy="0.18" speed="15.76" length="4.80" nVehEntered="10"/>
+    <interval begin="18000.00" end="19800.00" id="2901_OnRamp" nVehContrib="4" flow="8.00" occupancy="0.08" speed="15.23" length="5.00" nVehEntered="4"/>
+    <interval begin="18000.00" end="19800.00" id="2902_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="18000.00" end="19800.00" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="19800.00" end="21600.00" id="2900_OnRamp" nVehContrib="13" flow="26.00" occupancy="0.26" speed="14.72" length="4.88" nVehEntered="14"/>
+    <interval begin="19800.00" end="21600.00" id="2901_OnRamp" nVehContrib="16" flow="32.00" occupancy="0.34" speed="14.24" length="4.81" nVehEntered="16"/>
+    <interval begin="19800.00" end="21600.00" id="2902_OnRamp" nVehContrib="3" flow="6.00" occupancy="0.10" speed="8.94" length="4.67" nVehEntered="3"/>
+    <interval begin="19800.00" end="21600.00" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="21600.00" end="23400.00" id="2900_OnRamp" nVehContrib="38" flow="76.00" occupancy="0.97" speed="13.15" length="4.99" nVehEntered="38"/>
+    <interval begin="21600.00" end="23400.00" id="2901_OnRamp" nVehContrib="24" flow="48.00" occupancy="0.50" speed="14.26" length="5.00" nVehEntered="25"/>
+    <interval begin="21600.00" end="23400.00" id="2902_OnRamp" nVehContrib="4" flow="8.00" occupancy="0.08" speed="13.74" length="4.88" nVehEntered="4"/>
+    <interval begin="21600.00" end="23400.00" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="23400.00" end="25200.00" id="2900_OnRamp" nVehContrib="46" flow="92.00" occupancy="0.95" speed="15.02" length="5.05" nVehEntered="53"/>
+    <interval begin="23400.00" end="25200.00" id="2901_OnRamp" nVehContrib="21" flow="42.00" occupancy="0.39" speed="15.44" length="4.88" nVehEntered="26"/>
+    <interval begin="23400.00" end="25200.00" id="2902_OnRamp" nVehContrib="10" flow="20.00" occupancy="0.29" speed="11.82" length="4.85" nVehEntered="11"/>
+    <interval begin="23400.00" end="25200.00" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="25200.00" end="27000.00" id="2900_OnRamp" nVehContrib="60" flow="120.00" occupancy="1.40" speed="13.34" length="4.88" nVehEntered="69"/>
+    <interval begin="25200.00" end="27000.00" id="2901_OnRamp" nVehContrib="33" flow="66.00" occupancy="0.79" speed="13.55" length="5.14" nVehEntered="40"/>
+    <interval begin="25200.00" end="27000.00" id="2902_OnRamp" nVehContrib="9" flow="18.00" occupancy="0.19" speed="13.57" length="4.83" nVehEntered="11"/>
+    <interval begin="25200.00" end="27000.00" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="27000.00" end="28800.00" id="2900_OnRamp" nVehContrib="63" flow="126.00" occupancy="1.39" speed="13.83" length="4.84" nVehEntered="69"/>
+    <interval begin="27000.00" end="28800.00" id="2901_OnRamp" nVehContrib="45" flow="90.00" occupancy="0.97" speed="14.06" length="4.86" nVehEntered="55"/>
+    <interval begin="27000.00" end="28800.00" id="2902_OnRamp" nVehContrib="15" flow="30.00" occupancy="0.34" speed="14.04" length="5.03" nVehEntered="15"/>
+    <interval begin="27000.00" end="28800.00" id="2903_OnRamp" nVehContrib="1" flow="2.00" occupancy="0.02" speed="13.78" length="6.00" nVehEntered="1"/>
+    <interval begin="28800.00" end="29709.60" id="2900_OnRamp" nVehContrib="28" flow="110.82" occupancy="1.22" speed="13.62" length="4.98" nVehEntered="34"/>
+    <interval begin="28800.00" end="29709.60" id="2901_OnRamp" nVehContrib="18" flow="71.24" occupancy="0.79" speed="14.55" length="5.00" nVehEntered="19"/>
+    <interval begin="28800.00" end="29709.60" id="2902_OnRamp" nVehContrib="10" flow="39.58" occupancy="0.46" speed="13.36" length="5.00" nVehEntered="10"/>
+    <interval begin="28800.00" end="29709.60" id="2903_OnRamp" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" length="-1.00" nVehEntered="0"/>
+</detector>

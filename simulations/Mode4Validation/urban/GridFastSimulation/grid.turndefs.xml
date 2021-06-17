@@ -1,0 +1,324 @@
+<turns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/turns_file.xsd">
+    <interval begin="0" end="3600">
+        <fromEdge id="A0A1">
+            <toEdge id="A1A2" probability="50"/>
+            <toEdge id="A1B1" probability="25"/>
+            <toEdge id="A1left1" probability="25"/>
+        </fromEdge>
+        <fromEdge id="A0B0">
+            <toEdge id="B0B1" probability="25"/>
+            <toEdge id="B0C0" probability="50"/>
+            <toEdge id="B0bottom1" probability="25"/>
+        </fromEdge>
+        <fromEdge id="A1A0">
+            <toEdge id="A0B0" probability="25"/>
+            <toEdge id="A0bottom0" probability="50"/>
+            <toEdge id="A0left0" probability="25"/>
+        </fromEdge>
+        <fromEdge id="A1A2">
+            <toEdge id="A2A3" probability="50"/>
+            <toEdge id="A2B2" probability="25"/>
+            <toEdge id="A2left2" probability="25"/>
+        </fromEdge>
+        <fromEdge id="A1B1">
+            <toEdge id="B1B0" probability="25"/>
+            <toEdge id="B1B2" probability="25"/>
+            <toEdge id="B1C1" probability="50"/>
+        </fromEdge>
+        <fromEdge id="A2A1">
+            <toEdge id="A1A0" probability="50"/>
+            <toEdge id="A1B1" probability="25"/>
+            <toEdge id="A1left1" probability="25"/>
+        </fromEdge>
+        <fromEdge id="A2A3">
+            <toEdge id="A3B3" probability="25"/>
+            <toEdge id="A3left3" probability="25"/>
+            <toEdge id="A3top0" probability="50"/>
+        </fromEdge>
+        <fromEdge id="A2B2">
+            <toEdge id="B2B1" probability="25"/>
+            <toEdge id="B2B3" probability="25"/>
+            <toEdge id="B2C2" probability="50"/>
+        </fromEdge>
+        <fromEdge id="A3A2">
+            <toEdge id="A2A1" probability="50"/>
+            <toEdge id="A2B2" probability="25"/>
+            <toEdge id="A2left2" probability="25"/>
+        </fromEdge>
+        <fromEdge id="A3B3">
+            <toEdge id="B3B2" probability="25"/>
+            <toEdge id="B3C3" probability="50"/>
+            <toEdge id="B3top1" probability="25"/>
+        </fromEdge>
+        <fromEdge id="B0A0">
+            <toEdge id="A0A1" probability="25"/>
+            <toEdge id="A0bottom0" probability="25"/>
+            <toEdge id="A0left0" probability="50"/>
+        </fromEdge>
+        <fromEdge id="B0B1">
+            <toEdge id="B1A1" probability="25"/>
+            <toEdge id="B1B2" probability="50"/>
+            <toEdge id="B1C1" probability="25"/>
+        </fromEdge>
+        <fromEdge id="B0C0">
+            <toEdge id="C0C1" probability="25"/>
+            <toEdge id="C0D0" probability="50"/>
+            <toEdge id="C0bottom2" probability="25"/>
+        </fromEdge>
+        <fromEdge id="B1A1">
+            <toEdge id="A1A0" probability="25"/>
+            <toEdge id="A1A2" probability="25"/>
+            <toEdge id="A1left1" probability="50"/>
+        </fromEdge>
+        <fromEdge id="B1B0">
+            <toEdge id="B0A0" probability="25"/>
+            <toEdge id="B0C0" probability="25"/>
+            <toEdge id="B0bottom1" probability="50"/>
+        </fromEdge>
+        <fromEdge id="B1B2">
+            <toEdge id="B2A2" probability="25"/>
+            <toEdge id="B2B3" probability="50"/>
+            <toEdge id="B2C2" probability="25"/>
+        </fromEdge>
+        <fromEdge id="B1C1">
+            <toEdge id="C1C0" probability="25"/>
+            <toEdge id="C1C2" probability="25"/>
+            <toEdge id="C1D1" probability="50"/>
+        </fromEdge>
+        <fromEdge id="B2A2">
+            <toEdge id="A2A1" probability="25"/>
+            <toEdge id="A2A3" probability="25"/>
+            <toEdge id="A2left2" probability="50"/>
+        </fromEdge>
+        <fromEdge id="B2B1">
+            <toEdge id="B1A1" probability="25"/>
+            <toEdge id="B1B0" probability="50"/>
+            <toEdge id="B1C1" probability="25"/>
+        </fromEdge>
+        <fromEdge id="B2B3">
+            <toEdge id="B3A3" probability="25"/>
+            <toEdge id="B3C3" probability="25"/>
+            <toEdge id="B3top1" probability="50"/>
+        </fromEdge>
+        <fromEdge id="B2C2">
+            <toEdge id="C2C1" probability="25"/>
+            <toEdge id="C2C3" probability="25"/>
+            <toEdge id="C2D2" probability="50"/>
+        </fromEdge>
+        <fromEdge id="B3A3">
+            <toEdge id="A3A2" probability="25"/>
+            <toEdge id="A3left3" probability="50"/>
+            <toEdge id="A3top0" probability="25"/>
+        </fromEdge>
+        <fromEdge id="B3B2">
+            <toEdge id="B2A2" probability="25"/>
+            <toEdge id="B2B1" probability="50"/>
+            <toEdge id="B2C2" probability="25"/>
+        </fromEdge>
+        <fromEdge id="B3C3">
+            <toEdge id="C3C2" probability="25"/>
+            <toEdge id="C3D3" probability="50"/>
+            <toEdge id="C3top2" probability="25"/>
+        </fromEdge>
+        <fromEdge id="C0B0">
+            <toEdge id="B0A0" probability="50"/>
+            <toEdge id="B0B1" probability="25"/>
+            <toEdge id="B0bottom1" probability="25"/>
+        </fromEdge>
+        <fromEdge id="C0C1">
+            <toEdge id="C1B1" probability="25"/>
+            <toEdge id="C1C2" probability="50"/>
+            <toEdge id="C1D1" probability="25"/>
+        </fromEdge>
+        <fromEdge id="C0D0">
+            <toEdge id="D0D1" probability="25"/>
+            <toEdge id="D0bottom3" probability="25"/>
+            <toEdge id="D0right0" probability="50"/>
+        </fromEdge>
+        <fromEdge id="C1B1">
+            <toEdge id="B1A1" probability="50"/>
+            <toEdge id="B1B0" probability="25"/>
+            <toEdge id="B1B2" probability="25"/>
+        </fromEdge>
+        <fromEdge id="C1C0">
+            <toEdge id="C0B0" probability="25"/>
+            <toEdge id="C0D0" probability="25"/>
+            <toEdge id="C0bottom2" probability="50"/>
+        </fromEdge>
+        <fromEdge id="C1C2">
+            <toEdge id="C2B2" probability="25"/>
+            <toEdge id="C2C3" probability="50"/>
+            <toEdge id="C2D2" probability="25"/>
+        </fromEdge>
+        <fromEdge id="C1D1">
+            <toEdge id="D1D0" probability="25"/>
+            <toEdge id="D1D2" probability="25"/>
+            <toEdge id="D1right1" probability="50"/>
+        </fromEdge>
+        <fromEdge id="C2B2">
+            <toEdge id="B2A2" probability="50"/>
+            <toEdge id="B2B1" probability="25"/>
+            <toEdge id="B2B3" probability="25"/>
+        </fromEdge>
+        <fromEdge id="C2C1">
+            <toEdge id="C1B1" probability="25"/>
+            <toEdge id="C1C0" probability="50"/>
+            <toEdge id="C1D1" probability="25"/>
+        </fromEdge>
+        <fromEdge id="C2C3">
+            <toEdge id="C3B3" probability="25"/>
+            <toEdge id="C3D3" probability="25"/>
+            <toEdge id="C3top2" probability="50"/>
+        </fromEdge>
+        <fromEdge id="C2D2">
+            <toEdge id="D2D1" probability="25"/>
+            <toEdge id="D2D3" probability="25"/>
+            <toEdge id="D2right2" probability="50"/>
+        </fromEdge>
+        <fromEdge id="C3B3">
+            <toEdge id="B3A3" probability="50"/>
+            <toEdge id="B3B2" probability="25"/>
+            <toEdge id="B3top1" probability="25"/>
+        </fromEdge>
+        <fromEdge id="C3C2">
+            <toEdge id="C2B2" probability="25"/>
+            <toEdge id="C2C1" probability="50"/>
+            <toEdge id="C2D2" probability="25"/>
+        </fromEdge>
+        <fromEdge id="C3D3">
+            <toEdge id="D3D2" probability="25"/>
+            <toEdge id="D3right3" probability="50"/>
+            <toEdge id="D3top3" probability="25"/>
+        </fromEdge>
+        <fromEdge id="D0C0">
+            <toEdge id="C0B0" probability="50"/>
+            <toEdge id="C0C1" probability="25"/>
+            <toEdge id="C0bottom2" probability="25"/>
+        </fromEdge>
+        <fromEdge id="D0D1">
+            <toEdge id="D1C1" probability="25"/>
+            <toEdge id="D1D2" probability="50"/>
+            <toEdge id="D1right1" probability="25"/>
+        </fromEdge>
+        <fromEdge id="D1C1">
+            <toEdge id="C1B1" probability="50"/>
+            <toEdge id="C1C0" probability="25"/>
+            <toEdge id="C1C2" probability="25"/>
+        </fromEdge>
+        <fromEdge id="D1D0">
+            <toEdge id="D0C0" probability="25"/>
+            <toEdge id="D0bottom3" probability="50"/>
+            <toEdge id="D0right0" probability="25"/>
+        </fromEdge>
+        <fromEdge id="D1D2">
+            <toEdge id="D2C2" probability="25"/>
+            <toEdge id="D2D3" probability="50"/>
+            <toEdge id="D2right2" probability="25"/>
+        </fromEdge>
+        <fromEdge id="D2C2">
+            <toEdge id="C2B2" probability="50"/>
+            <toEdge id="C2C1" probability="25"/>
+            <toEdge id="C2C3" probability="25"/>
+        </fromEdge>
+        <fromEdge id="D2D1">
+            <toEdge id="D1C1" probability="25"/>
+            <toEdge id="D1D0" probability="50"/>
+            <toEdge id="D1right1" probability="25"/>
+        </fromEdge>
+        <fromEdge id="D2D3">
+            <toEdge id="D3C3" probability="25"/>
+            <toEdge id="D3right3" probability="25"/>
+            <toEdge id="D3top3" probability="50"/>
+        </fromEdge>
+        <fromEdge id="D3C3">
+            <toEdge id="C3B3" probability="50"/>
+            <toEdge id="C3C2" probability="25"/>
+            <toEdge id="C3top2" probability="25"/>
+        </fromEdge>
+        <fromEdge id="D3D2">
+            <toEdge id="D2C2" probability="25"/>
+            <toEdge id="D2D1" probability="50"/>
+            <toEdge id="D2right2" probability="25"/>
+        </fromEdge>
+        <fromEdge id="bottom0A0">
+		<toEdge id="A0A1" probability="63"/> <!--Add 13 -->
+		<toEdge id="A0B0" probability="37"/> <!-- Add 12 -->
+	    <!--<toEdge id="A0left0" probability="25"/>-->
+        </fromEdge>
+        <fromEdge id="bottom1B0">
+            <toEdge id="B0A0" probability="25"/>
+            <toEdge id="B0B1" probability="50"/>
+            <toEdge id="B0C0" probability="25"/>
+        </fromEdge>
+        <fromEdge id="bottom2C0">
+            <toEdge id="C0B0" probability="25"/>
+            <toEdge id="C0C1" probability="50"/>
+            <toEdge id="C0D0" probability="25"/>
+        </fromEdge>
+        <fromEdge id="bottom3D0">
+            <toEdge id="D0C0" probability="37"/> <!-- Add 12 -->
+            <toEdge id="D0D1" probability="63"/> <!-- Add 13 -->
+            <!-- <toEdge id="D0right0" probability="25"/> -->
+        </fromEdge>
+        <fromEdge id="left0A0">
+            <toEdge id="A0A1" probability="37"/> <!-- Add 12 -->
+            <toEdge id="A0B0" probability="63"/> <!-- Add 13 -->
+            <!-- <toEdge id="A0bottom0" probability="25"/> -->
+        </fromEdge>
+        <fromEdge id="left1A1">
+            <toEdge id="A1A0" probability="25"/>
+            <toEdge id="A1A2" probability="25"/>
+            <toEdge id="A1B1" probability="50"/>
+        </fromEdge>
+        <fromEdge id="left2A2">
+            <toEdge id="A2A1" probability="25"/>
+            <toEdge id="A2A3" probability="25"/>
+            <toEdge id="A2B2" probability="50"/>
+        </fromEdge>
+        <fromEdge id="left3A3">
+            <toEdge id="A3A2" probability="37"/> <!-- Add 12 -->
+            <toEdge id="A3B3" probability="63"/> <!-- Add 13 -->
+            <!-- <toEdge id="A3top0" probability="25"/> -->
+        </fromEdge>
+        <fromEdge id="right0D0">
+            <toEdge id="D0C0" probability="63"/> <!-- Add 12 -->
+            <toEdge id="D0D1" probability="37"/> <!-- Add 13 -->
+            <!-- <toEdge id="D0bottom3" probability="25"/> -->
+        </fromEdge>
+        <fromEdge id="right1D1">
+            <toEdge id="D1C1" probability="50"/>
+            <toEdge id="D1D0" probability="25"/>
+            <toEdge id="D1D2" probability="25"/>
+        </fromEdge>
+        <fromEdge id="right2D2">
+            <toEdge id="D2C2" probability="50"/>
+            <toEdge id="D2D1" probability="25"/>
+            <toEdge id="D2D3" probability="25"/>
+        </fromEdge>
+        <fromEdge id="right3D3">
+            <toEdge id="D3C3" probability="63"/> <!-- Add 12 -->
+            <toEdge id="D3D2" probability="37"/> <!-- Add 13 -->
+            <!-- <toEdge id="D3top3" probability="25"/>-->
+        </fromEdge>
+        <fromEdge id="top0A3">
+            <toEdge id="A3A2" probability="63"/> <!-- Add 12 -->
+            <toEdge id="A3B3" probability="37"/> <!-- Add 13 -->
+            <!-- <toEdge id="A3left3" probability="25"/> -->
+        </fromEdge>
+        <fromEdge id="top1B3">
+            <toEdge id="B3A3" probability="25"/>
+            <toEdge id="B3B2" probability="50"/>
+            <toEdge id="B3C3" probability="25"/>
+        </fromEdge>
+        <fromEdge id="top2C3">
+            <toEdge id="C3B3" probability="25"/>
+            <toEdge id="C3C2" probability="50"/>
+            <toEdge id="C3D3" probability="25"/>
+        </fromEdge>
+        <fromEdge id="top3D3">
+            <toEdge id="D3C3" probability="25"/> <!-- Add 12 -->
+            <toEdge id="D3D2" probability="50"/> <!-- Add 13 -->
+            <!-- <toEdge id="D3right3" probability="25"/> -->
+        </fromEdge>
+    </interval>
+</turns>

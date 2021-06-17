@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Sat Mar 23 15:16:12 2019 by Eclipse SUMO netconvert Version 1.0.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="grid.net.xml"/>
+    </input>
+
+    <output>
+        <plain-output-prefix value="connectionsHopefully"/>
+    </output>
+
+    <processing>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="false"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.5"/>
+        <rectangular-lane-cut value="false"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="false"/>
+    </pedestrian>
+
+</configuration>
+-->
+
+<nodes version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
+    <location netOffset="0.00,0.00" convBoundary="0.00,0.00,800.00,1349.00" origBoundary="0.00,0.00,800.00,1349.00" projParameter="!"/>
+
+    <node id="A0" x="25.00" y="25.00" type="priority"/>
+    <node id="A1" x="25.00" y="458.00" type="priority"/>
+    <node id="A2" x="25.00" y="891.00" type="priority"/>
+    <node id="A3" x="25.00" y="1324.00" type="priority"/>
+    <node id="B0" x="275.00" y="25.00" type="priority"/>
+    <node id="B1" x="275.00" y="458.00" type="priority"/>
+    <node id="B2" x="275.00" y="891.00" type="priority"/>
+    <node id="B3" x="275.00" y="1324.00" type="priority"/>
+    <node id="C0" x="525.00" y="25.00" type="priority"/>
+    <node id="C1" x="525.00" y="458.00" type="priority"/>
+    <node id="C2" x="525.00" y="891.00" type="priority"/>
+    <node id="C3" x="525.00" y="1324.00" type="priority"/>
+    <node id="D0" x="775.00" y="25.00" type="priority"/>
+    <node id="D1" x="775.00" y="458.00" type="priority"/>
+    <node id="D2" x="775.00" y="891.00" type="priority"/>
+    <node id="D3" x="775.00" y="1324.00" type="priority"/>
+    <node id="bottom0" x="25.00" y="0.00" type="dead_end"/>
+    <node id="bottom1" x="275.00" y="0.00" type="dead_end"/>
+    <node id="bottom2" x="525.00" y="0.00" type="dead_end"/>
+    <node id="bottom3" x="775.00" y="0.00" type="dead_end"/>
+    <node id="left0" x="0.00" y="25.00" type="dead_end"/>
+    <node id="left1" x="0.00" y="458.00" type="dead_end"/>
+    <node id="left2" x="0.00" y="891.00" type="dead_end"/>
+    <node id="left3" x="0.00" y="1324.00" type="dead_end"/>
+    <node id="right0" x="800.00" y="25.00" type="dead_end"/>
+    <node id="right1" x="800.00" y="458.00" type="dead_end"/>
+    <node id="right2" x="800.00" y="891.00" type="dead_end"/>
+    <node id="right3" x="800.00" y="1324.00" type="dead_end"/>
+    <node id="top0" x="25.00" y="1349.00" type="dead_end"/>
+    <node id="top1" x="275.00" y="1349.00" type="dead_end"/>
+    <node id="top2" x="525.00" y="1349.00" type="dead_end"/>
+    <node id="top3" x="775.00" y="1349.00" type="dead_end"/>
+</nodes>

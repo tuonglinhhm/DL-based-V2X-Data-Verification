@@ -1,0 +1,55 @@
+<routes>
+
+	<vType id="vtype0" accel="2.6" decel="4.5" sigma="0.5" length="2.5" minGap="2.5" maxSpeed="15" color="255,1,0" departLane="0" departSpeed="max"/>
+	<vType id="vtype1" accel="2.6" decel="4.5" sigma="0.5" length="2.5" minGap="2.5" maxSpeed="15" color="1,255,0" departLane="1" departSpeed="max"/>
+	
+	<flow id="flow0" type="vtype0" begin="1" end="600" period="2.5" from="left0A0" departLane="0" departSpeed="max"/>
+	<flow id="flow1" type="vtype1" begin="1" end="600" period="2.5" from="left0A0" departLane="1" departSpeed="max"/>
+	
+	<flow id="flow2" type="vtype0" begin="1" end="600" period="2.5" from="left1A1" departLane="0" departSpeed="max"/>
+	<flow id="flow3" type="vtype1" begin="1" end="600" period="2.5" from="left1A1" departLane="1" departSpeed="max"/>
+
+	<flow id="flow4" type="vtype0" begin="1" end="600" period="2.5" from="left2A2" departLane="0" departSpeed="max"/>
+	<flow id="flow5" type="vtype1" begin="1" end="600" period="2.5" from="left2A2" departLane="1" departSpeed="max"/>
+
+	<flow id="flow6" type="vtype0" begin="1" end="600" period="2.5" from="left3A3" departLane="0" departSpeed="max"/>
+	<flow id="flow7" type="vtype1" begin="1" end="600" period="2.5" from="left3A3" departLane="1" departSpeed="max"/>
+
+	<flow id="flow8" type="vtype0" begin="1" end="600" period="2.5" from="top0A3" departLane="0" departSpeed="max"/>
+	<flow id="flow9" type="vtype1" begin="1" end="600" period="2.5" from="top0A3" departLane="1" departSpeed="max"/>
+
+	<flow id="flow10" type="vtype0" begin="1" end="600" period="2.5" from="top1B3" departLane="0" departSpeed="max"/>
+	<flow id="flow11" type="vtype1" begin="1" end="600" period="2.5" from="top1B3" departLane="1" departSpeed="max"/>
+
+	<flow id="flow12" type="vtype0" begin="1" end="600" period="2.5" from="top2C3" departLane="0" departSpeed="max"/>
+	<flow id="flow13" type="vtype1" begin="1" end="600" period="2.5" from="top2C3" departLane="1" departSpeed="max"/>
+
+	<flow id="flow14" type="vtype0" begin="1" end="600" period="2.5" from="top3D3" departLane="0" departSpeed="max"/>
+	<flow id="flow15" type="vtype1" begin="1" end="600" period="2.5" from="top3D3" departLane="1" departSpeed="max"/>
+
+	<flow id="flow16" type="vtype0" begin="1" end="600" period="2.5" from="right0D0" departLane="0" departSpeed="max"/>
+	<flow id="flow17" type="vtype1" begin="1" end="600" period="2.5" from="right0D0" departLane="1" departSpeed="max"/>
+
+	<flow id="flow18" type="vtype0" begin="1" end="600" period="2.5" from="right1D1" departLane="0" departSpeed="max"/>
+	<flow id="flow19" type="vtype1" begin="1" end="600" period="2.5" from="right1D1" departLane="1" departSpeed="max"/>
+
+	<flow id="flow20" type="vtype0" begin="1" end="600" period="2.5" from="right2D2" departLane="0" departSpeed="max"/>
+	<flow id="flow21" type="vtype1" begin="1" end="600" period="2.5" from="right2D2" departLane="1" departSpeed="max"/>
+
+ 	<flow id="flow22" type="vtype0" begin="1" end="600" period="2.5" from="right3D3" departLane="0" departSpeed="max"/>
+	<flow id="flow23" type="vtype1" begin="1" end="600" period="2.5" from="right3D3" departLane="1" departSpeed="max"/>
+
+	<flow id="flow24" type="vtype0" begin="1" end="600" period="2.5" from="bottom0A0" departLane="0" departSpeed="max"/>
+	<flow id="flow25" type="vtype1" begin="1" end="600" period="2.5" from="bottom0A0" departLane="1" departSpeed="max"/>
+
+	<flow id="flow26" type="vtype0" begin="1" end="600" period="2.5" from="bottom1B0" departLane="0" departSpeed="max"/>
+	<flow id="flow27" type="vtype1" begin="1" end="600" period="2.5" from="bottom1B0" departLane="1" departSpeed="max"/>
+
+	<flow id="flow28" type="vtype0" begin="1" end="600" period="2.5" from="bottom2C0" departLane="0" departSpeed="max"/>
+	<flow id="flow29" type="vtype1" begin="1" end="600" period="2.5" from="bottom2C0" departLane="1" departSpeed="max"/>
+
+	<flow id="flow30" type="vtype0" begin="1" end="600" period="2.5" from="bottom3D0" departLane="0" departSpeed="max"/>
+	<flow id="flow31" type="vtype1" begin="1" end="600" period="2.5" from="bottom3D0" departLane="1" departSpeed="max"/>
+
+
+</routes>
